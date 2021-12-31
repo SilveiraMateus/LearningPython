@@ -11,3 +11,4 @@ parte1 = 'eletro'
 t = 'te'
 
 print(f'{b}{t}{r}{a} {parte1}{parte2}')
+print("Alterações feitas")
