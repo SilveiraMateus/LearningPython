@@ -1,7 +1,7 @@
 nome = 'Mateus'
-hobby = 'ouvir Musica'
+hobby_mat = 'ouvir Musica'
 
-print(f'Ola, sou o {nome}  e gosto de {hobby}')
+print(f'Ola, sou o {nome}  e gosto de {hobby_mat}')
 
 b = 'ba'
 parte2 = 'nica'
